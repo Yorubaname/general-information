@@ -38,7 +38,7 @@ Couple of important things to always include in bug reports:
 3. Screenshot of the error page when possible.
 
 ##### Where to create issues
-Remember the Yorubaname project consist of two separate application with two separate git repository. The [Yorubname website:](https://github.com/Yorubaname/yorubaname-website) and the [Yorubaname Dashboard:](https://github.com/Yorubaname/yorubaname-dashboard)
+Remember the Yorubaname project consist of two separate application with two separate git repository. The [Yorubname website:](https://github.com/Yorubaname/yorubaname-website) and the [Yorubaname Dashboard:](https://github.com/Yorubaname/yorubaname-dashboard).
 
 If the issue is about the dashboard, put it on the [dashboard issue tracker:](https://github.com/Yorubaname/yorubaname-dashboard/issues) If it is about the website, put it in the [website issue tracker:](https://github.com/Yorubaname/yorubaname-website/issues). When in doubt put it in the website’s issue tracker.
 ---
