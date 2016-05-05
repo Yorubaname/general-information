@@ -1,8 +1,8 @@
 # General-information
 Project wide information on how to contribute and collaborate.
 
-1. [Using Github's Issue Tracker][#using-github's-issue-tracker]
-2. [Contributing Code as a Developer][#contributing-code-as-a-developer]
+1. [Using Github's Issue Tracker](#using-github's-issue-tracker)
+2. [Contributing Code as a Developer](#contributing-code-as-a-developer)
 
 ### Using Github's Issue Tracker
 ##### Submitting Feature Request or Reporting Bugs
